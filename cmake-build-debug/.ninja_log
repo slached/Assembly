@@ -1,0 +1,13 @@
+# ninja log v5
+2	121	7296691348315679	build.ninja	1d380ad9d3d2c6c3
+0	102	7296690942414312	CMakeFiles/assembler.dir/assembler.c.obj	c060b39aa3651a4b
+103	176	7296690943134311	assembler.exe	ca23c5dd5d0c4314
+0	109	7296691348315679	build.ninja	1d380ad9d3d2c6c3
+1	100	7296692019055234	CMakeFiles/assembler.dir/assembler.c.obj	c060b39aa3651a4b
+101	164	7296692019665234	assembler.exe	ca23c5dd5d0c4314
+1	105	7296695247966303	CMakeFiles/assembler.dir/assembler.c.obj	c060b39aa3651a4b
+106	172	7296695248606327	assembler.exe	ca23c5dd5d0c4314
+1	99	7296695517454301	CMakeFiles/assembler.dir/assembler.c.obj	c060b39aa3651a4b
+100	164	7296695518076800	assembler.exe	ca23c5dd5d0c4314
+2	108	7296695575327389	CMakeFiles/assembler.dir/assembler.c.obj	c060b39aa3651a4b
+109	178	7296695575997383	assembler.exe	ca23c5dd5d0c4314
